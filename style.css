@@ -1,0 +1,28 @@
+.avatar
+{
+    height:200px;
+    width:150px;
+}
+.card
+{
+    width: 400px;
+    margin: 0 auto;
+    /* margin-left: auto;
+    margin-right: auto; */
+    display:flex;
+    margin-top:200px;
+    margin:400px;
+    margin-right:600px;
+    justify-content: space-around ;
+    padding:20px;
+    text-align:center;
+    background: #8dbae4;
+    color: #090909;
+    border-bottom:8px solid rgb(177, 113, 177);
+
+}
+
+body{
+    margin:20px;
+    
+}
